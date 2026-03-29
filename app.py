@@ -3,7 +3,7 @@ from main import call_llm as ask
 
 # ✅ PAGE CONFIG
 st.set_page_config(page_title="RAG Chatbot", layout="wide", initial_sidebar_state="expanded")
-st.title("📄 RAG Chatbot")
+st.title("📄 RAG Chatbot ")
 st.write("Ask questions about your documents")
 
 # ✅ SIDEBAR
