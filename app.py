@@ -1,6 +1,5 @@
 import streamlit as st
 from main import call_llm as ask
-
 # ✅ PAGE CONFIG
 st.set_page_config(page_title="RAG Chatbot", layout="wide", initial_sidebar_state="expanded")
 st.title("📄 RAG Chatbot ")
